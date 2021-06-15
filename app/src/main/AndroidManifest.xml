@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TwoActivities">
-        <activity android:name=".test"></activity>
         <activity
             android:name=".SecondActivity"
             android:label="@string/Activity_Name_Reply"
